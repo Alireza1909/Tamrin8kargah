@@ -1,0 +1,54 @@
+body{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='250' preserveAspectRatio='none' viewBox='0 0 1440 250'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1227%26quot%3b)' fill='none'%3e%3crect width='1440' height='250' x='0' y='0' fill='url(%23SvgjsLinearGradient1228)'%3e%3c/rect%3e%3cpath d='M38 250L288 0L394.5 0L144.5 250z' fill='url(%23SvgjsLinearGradient1229)'%3e%3c/path%3e%3cpath d='M252.60000000000002 250L502.6 0L622.6 0L372.6 250z' fill='url(%23SvgjsLinearGradient1229)'%3e%3c/path%3e%3cpath d='M518.2 250L768.2 0L961.7 0L711.7 250z' fill='url(%23SvgjsLinearGradient1229)'%3e%3c/path%3e%3cpath d='M737.8000000000001 250L987.8000000000001 0L1100.3000000000002 0L850.3000000000001 250z' fill='url(%23SvgjsLinearGradient1229)'%3e%3c/path%3e%3cpath d='M1402 250L1152 0L957 0L1207 250z' fill='url(%23SvgjsLinearGradient1230)'%3e%3c/path%3e%3cpath d='M1155.4 250L905.4000000000001 0L695.4000000000001 0L945.4000000000001 250z' fill='url(%23SvgjsLinearGradient1230)'%3e%3c/path%3e%3cpath d='M948.8 250L698.8 0L649.3 0L899.3 250z' fill='url(%23SvgjsLinearGradient1230)'%3e%3c/path%3e%3cpath d='M683.1999999999999 250L433.19999999999993 0L139.19999999999993 0L389.19999999999993 250z' fill='url(%23SvgjsLinearGradient1230)'%3e%3c/path%3e%3cpath d='M1195.0807025752656 250L1440 5.080702575265661L1440 250z' fill='url(%23SvgjsLinearGradient1229)'%3e%3c/path%3e%3cpath d='M0 250L244.91929742473434 250L 0 5.080702575265661z' fill='url(%23SvgjsLinearGradient1230)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1227'%3e%3crect width='1440' height='250' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='20.66%25' y1='-119%25' x2='79.34%25' y2='219%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1228'%3e%3cstop stop-color='%230e2a47' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(9%2c 43%2c 87%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='0%25' y1='100%25' x2='100%25' y2='0%25' id='SvgjsLinearGradient1229'%3e%3cstop stop-color='rgba(15%2c 70%2c 185%2c 0.2)' offset='0'%3e%3c/stop%3e%3cstop stop-opacity='0' stop-color='rgba(15%2c 70%2c 185%2c 0.2)' offset='0.66'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='100%25' y1='100%25' x2='0%25' y2='0%25' id='SvgjsLinearGradient1230'%3e%3cstop stop-color='rgba(15%2c 70%2c 185%2c 0.2)' offset='0'%3e%3c/stop%3e%3cstop stop-opacity='0' stop-color='rgba(15%2c 70%2c 185%2c 0.2)' offset='0.66'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+.header{
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    position: fixed;
+}
+.footer{
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224, 209, 175);
+    position: fixed;
+}
+
+.navigation{
+    font-size: 20pt;
+    color: black;
+    text-align: right;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224, 209, 175);
+}
+
+.main{
+    font-size: 25pt;
+    font-family: "B Kamran outline";
+    color: rgb(255, 217, 2);
+    text-align: right;
+    bottom: 0;
+    width: 100%;
+}
+
+.ax{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.etelaat{
+    font-size: 13pt;
+    font-family: "B Homa";
+    color: rgb(206, 121, 9);
+    text-align: center;
+}
+
+.input{
+    font-size: 10pt;
+    color: black;
+    text-align: center;
+}
